@@ -1,1 +1,2 @@
-# laboratorio_A01562052
+# Laboratorio_A01562052
+Laboratorio de GitHub - Angel Corrales Sotelo
